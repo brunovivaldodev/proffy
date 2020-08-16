@@ -1,19 +1,21 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brunovivaldodev/proffy/a90dafa9c238ca9dac285a16cc25ad61cdd7fa96/readme/logo.svg" alt="Landing Page Proffy in Desktop" width="47%" background-color="#000" />
+</p>  
 
-
-Projecto para unir professores e alunos, onde professores disponibilizam as disciplinas a leccionar e alunos entram em contacto para marcar aulas com estes professores.
+## Projecto para unir professores e alunos, onde professores disponibilizam as disciplinas a leccionar e alunos entram em contacto para marcar aulas com estes professores.
 
 ## 📸 Screenshots
 
 <p align="center"><b>Interface Web para Desktop</b></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50463866/89676301-d316dc80-d8c1-11ea-9383-1c635ecd8b8a.png" alt="Landing Page Proffy in Desktop" width="47%" />
-  <img src="https://user-images.githubusercontent.com/50463866/89676314-d742fa00-d8c1-11ea-815f-cbcb370a1907.png" alt="Study Page in Desktop" width="47%" />
+  <img src="https://github.com/brunovivaldodev/proffy/blob/master/readme/Screenshot%20from%202020-08-16%2018-00-41.png?raw=true" alt="Landing Page Proffy in Desktop" width="47%" />
+  <img src="https://github.com/brunovivaldodev/proffy/blob/master/readme/Screenshot%20from%202020-08-16%2018-01-20.png?raw=true" alt="Study Page in Desktop" width="47%" />
 </p>
 
 <p align="center"><b>Interface Web para Mobile</b></p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/50463866/89676295-d14d1900-d8c1-11ea-8ec3-11f3d2378735.png" alt="Landing Page Proffy in Mobile" width="25%" />
-  <img src="https://user-images.githubusercontent.com/50463866/89676306-d5793680-d8c1-11ea-9122-e6967ecd8d76.png" alt="Study Page in Mobile" width="25%" />
+  <img src="https://github.com/brunovivaldodev/proffy/blob/master/readme/Screenshot_1597597028.png?raw=true" alt="Landing Page Proffy in Mobile" width="25%" />
+  <img src="https://github.com/brunovivaldodev/proffy/blob/master/readme/Screenshot_1597597013.png?raw=true" alt="Study Page in Mobile" width="25%" />
 </p>
 
 ## 🛠 Techs
