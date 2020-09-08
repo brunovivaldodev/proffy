@@ -83,7 +83,7 @@ Será startado em `http://localhost:5000`
 
 Siga os passos abaixo para contribuir:
 
-1. Faça o *fork* do projeto (<https://github.com/matheusfelipeog/proffy>)
+1. Faça o *fork* do projeto (<https://github.com/brunovivaldodev/proffy>)
 
 2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/proffy.git`)
 
